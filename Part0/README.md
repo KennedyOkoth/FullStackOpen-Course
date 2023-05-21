@@ -1,4 +1,4 @@
-##Fundamentals of Web Apps"
+## Fundamentals of Web Apps"
 
 The "Fundamentals of Web Apps" is an introductory course that covers the principles and concepts of web development. The course provides an example application, 
 located at https://studies.cs.helsinki.fi/exampleapp, to demonstrate these concepts. However, it's important to note that the example application showcases outdated 
